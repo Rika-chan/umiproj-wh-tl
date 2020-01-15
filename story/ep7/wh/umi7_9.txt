@@ -27,7 +27,7 @@
 `was that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us? `
 `We have no way of knowing." `
 `"And yet, we want to believe. `
-`We want to believe it was God's salvation sent to us, a sign of 'fukuin', the good news, the Gospel." `
+`We want to believe it was God's salvation sent to us, a sign of the good news, the {ruby:fukuin:Gospel}." `
 `"But why me? `
 `I have no religion!" `
 `"Then it wasn't the Gospel, but a demon's lure!" `
