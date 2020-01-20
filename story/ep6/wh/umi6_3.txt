@@ -403,13 +403,13 @@
 `"Good, that'll do for now. `
 `And I'd like to call you by your name, Kanon-kun. `
 `...You have a real name...besides Kanon, don't you? `
-`I'll bet it has the character å˜‰ in it, like Kanon does... `
+`I'll bet it has the character {p:0:音} in it, like Kanon does... `
 `Wh-What could it be, ...heheh..." `
 `"...My name is Yoshiya." `
 `"O-Oh, ...how is it written?" `
 `Jessica tried tracing out various characters on the palm of her hand. `
 `...Then, Kanon used his own finger to write out his name on her hand... `
-`"You write it as å˜‰å“‰..." `
+`"You write it as {p:0:嘉哉}..." `
 `"...So, you're Yoshiya...kun... `
 `...Yeah, that's a great name. `
 `...Totally better than my weird name..." `
