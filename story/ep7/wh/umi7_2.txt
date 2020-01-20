@@ -524,7 +524,7 @@
 `"Who is this person? `
 `I'll negotiate with them." `
 `"You cannot...{f:5:NEGOTIATE}. `
-`It i{f:5:S} the o{f:5:NE} who or{f:5:DERS US}." `
+`It i{f:5:s} the o{f:5:ne} who or{f:5:ders us}." `
 `"Call Kanon over here. `
 `...I hate theatergoing just as much as I hate torture." `
 `Slowly, ...Will pulled his right hand out of his pocket. `
@@ -534,9 +534,9 @@
 `He held that hand out towards Shannon...and slowly approached her. `
 `"Call Kanon. `
 `I want to check something with you two." `
-`"{f:5:I...C A N N O T CALL HIM. DO YOU S T I L L ... WANT  ME TO}...?" `
+`"{f:5:I ca  nnot call him. Do you sti  ll... want me to}...?" `
 `"If you don't call him, I'm going to use my authority." `
-`"{f:5:IF YO U INS IST, ...I CA N CA LL HIM  SPECI ALLY FOR  YOU, BUT}..." `
+`"{f:5:If you insi  st, ......I can c al   l him speci ally for  you, but}..." `
 `"............" `
 `"       ." `
 `There was some kind of incomprehensible tension between the two. `

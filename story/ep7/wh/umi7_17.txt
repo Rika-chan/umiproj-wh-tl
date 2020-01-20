@@ -641,7 +641,7 @@
 `{n}The day I became a true witch.} `
 `{a:c: `
 `Oh, I am one yet many. `
-`I am the Golden Witch, {f:5:Beatrice}.} `
+`I am the Golden Witch, Beatrice.} `
 `{a:c: `
 `The true ruler of Rokkenjima,{n}......and the possessor of endless gold.} `
 `{a:c: `
