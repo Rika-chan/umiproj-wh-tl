@@ -296,8 +296,8 @@
 `"'Yes, ma'aaam!! `
 `I wouldn't put anything in them! I'd just eat them all myself!'" `
 `"'Obviously. Do you have to be so predictable?!!'" `
-`"'Well, they say a girl's gotta grab by all three sacksâ˜† The first one's the stomach, right? `
-`Next comes the wallet, ...and what was the third one again?! *giggle*â˜†'" `
+`"'Well, they say a girl's gotta grab by all three sacks{p:0:☆} The first one's the stomach, right? `
+`Next comes the wallet, ...and what was the third one again?! *giggle*{p:0:☆}" `
 `"'If I could catch a guy's attention, I'd want to make him sacrifice his body, heart, and soul to me! `
 `That's why I pour all my power and affection into my cooking.'" `
 `"'Heheh, in any event, making someone eat your food is probably a frontal attack that's gone unchanged throughout the ages.'" `
@@ -306,7 +306,7 @@
 `"'Ooh? `
 `Are you saying you've succeeded in grasping a man's heart, Onee-sama?'" `
 `"'Battler, there's nothing weird in it, so have a biiite. `
-`Don't think you'll ever get a chance to eat my handmade cookies againâ˜†'" `
+`Don't think you'll ever get a chance to eat my handmade cookies again{p:0:☆}'" `
 `......There probably won't...be another chance. `
 `I slowly stretched my hand... `
 `out to the illusion of the cookie plate... `
