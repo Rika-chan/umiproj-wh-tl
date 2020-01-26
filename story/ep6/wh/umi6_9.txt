@@ -72,8 +72,7 @@
 `What is it?" `
 `Maybe Erika was bored too. `
 `...Or perhaps the sound of the rain was making her sentimental. `
-`She agreed to listen to Dlanor, `
-`which was very unlike her. `
+`She agreed to listen to Dlanor, which was very unlike her. `
 `"{f:5:Why}? `
 `...Why do you hate {f:5:magic}?" `
 `"...Ah. `
@@ -82,7 +81,8 @@
 `Everyone knew {f:5:that}. `
 `...Was it really necessary to go so far to destroy that {f:5:illusion}? `
 `...I cannot {f:5:understand}." `
-`Erika didn't need Dlanor to tell her that it had been a childish fight. `
+`Erika didn't need Dlanor to tell her `
+`that it had been a childish fight. `
 `"...Well, I am a self-proclaimed intellectual rapist. `
 `I can't stand having magic confuse the truth." `
 `"So, you feel pleasure from exposing {f:5:that}? `
