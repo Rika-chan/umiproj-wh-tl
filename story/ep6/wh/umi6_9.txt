@@ -6,8 +6,8 @@
 `This room was the farthest down the hall, a long way away from the cousin room... `
 `"And last time, my room was right next to theirs. `
 `...I see, ...so he's placed my room farther away this time." `
-`"Such a modification to the initial arrangement is well-covered by the authority given to the Game MASTER. `
-`It would seem to be quite a reasonable first MOVE." `
+`"Such a modification to the initial arrangement is well-covered by the authority given to the Game {f:5:Master}. `
+`It would seem to be quite a reasonable first {f:5:move}." `
 `"Well, it's better for me that way too. `
 `Like I'd want to hear those brats' squeaky voices as they play cards." `
 `"........." `
