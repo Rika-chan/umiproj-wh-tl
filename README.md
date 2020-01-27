@@ -30,7 +30,7 @@ Current progress is indicated below. While I try my best to update this project 
 |-|-|
 |Episode 1: Legend of the Golden Witch|Complete|
 |Episode 2: Turn of the Golden Witch|Complete|
-|Episode 3: Banquet of the Golden Witch|Up to chapter 13|
+|Episode 3: Banquet of the Golden Witch|Complete|
 |Episode 4: Alliance of the Golden Witch|Not started|
 |Episode 5: End of the Golden Witch|Not started|
 |Episode 6: Dawn of the Golden Witch|Complete|
