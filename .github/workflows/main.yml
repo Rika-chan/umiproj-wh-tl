@@ -15,6 +15,8 @@ jobs:
         mkdir out
         php update-manager/update-manager.php dscript out/wh.txt . wh
         php update-manager/update-manager.php script out/wh.txt out/Witch-Hunt.file 8
+        cd out
+        zip developer-script.zip wh.txt
     - name: Create release
       id: create_release
       uses: actions/create-release@v1
@@ -38,6 +40,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: out/wh.txt
-        asset_name: developer-script.txt
+        asset_path: out/developer-script.zip
+        asset_name: developer-script.zip
         asset_content_type: application/octet-stream
