@@ -474,7 +474,8 @@
 `......Thanks a lot..." `
 `"...Wha......?!" `
 `Kyrie dodged the punch, placed her hand against that fist, and slammed it against the wall. `
-`Normally, Jessica would have hurt her hand on the wall and rolled around clutching at it in pain... `
+`Normally, Jessica would have hurt her hand on the wall and `
+`rolled around clutching at it in pain... `
 `However, Jessica's fist `
 `had left what looked like a meter-wide crater in the wall. `
 `Instead of wearing a look of anguish, `
@@ -488,8 +489,7 @@
 `Just one strike to the head... `
 `I won't let you feel a thing." `
 `Kyrie tried to look confident, but she couldn't hide her confusion at this unreal destructive force. `
-`If that punch had hit, her head probably would have split open like Jessica had said, `
-`killing her without any pain. `
+`If that punch had hit, her head probably would have split open like Jessica had said, killing her without any pain. `
 `"Here I go......" `
 `"......!!!" `
 `If Kyrie's kick off the ground and backward leap had been an instant slower, her gut would probably have been pulverized. `
