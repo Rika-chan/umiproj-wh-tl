@@ -35,7 +35,7 @@ Current progress is indicated below. While I try my best to update this project 
 |Episode 5: End of the Golden Witch|Not started|
 |Episode 6: Dawn of the Golden Witch|Complete|
 |Episode 7: Requiem of the Golden Witch|Complete|
-|Episode 8: Twilight of the Golden Witch|Up to chapter 6|
+|Episode 8: Twilight of the Golden Witch|Up to chapter 9|
 
 ---
 
