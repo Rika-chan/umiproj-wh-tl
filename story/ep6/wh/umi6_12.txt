@@ -257,17 +257,17 @@
 `In the servant room, there had been a clear folder containing a sketch of the mansion's interior. `
 `Because she had borrowed that, she knew the locations of all the rooms... `
 `Erika skillfully made her way through the mansion, dashing into each crime scene in turn... `
-`"Lady Erika, ...I believe you know, but allow me to warn you just in CASE." `
+`"Lady Erika, ...I believe you know, but allow me to warn you just in {f:5:case}." `
 `"Yes? What is it?" `
-`"It is true that you have an incredible photographic MEMORY, Lady Erika. `
-`...That, combined with the detective proclamation, is what made it possible for you to avoid being deceived by ANYTHING." `
+`"It is true that you have an incredible photographic {f:5:memory}, Lady Erika. `
+`...That, combined with the detective proclamation, is what made it possible for you to avoid being deceived by {f:5:anything}." `
 `"Yeah, I get it. `
 `...Since no detective proclamation has been made about me, even my photographic memory doesn't count as foolproof evidence. `
 `Of course, I understand that. `
 `...Still, that doesn't mean I can afford to miss viewing the crime scenes directly." `
 `"...After all, in the last game, my pride in that regard led me to a truly miserable failure." `
 `"For example, by this argument, no matter how well you examine a person's corpse, `
-`you could not even guarantee that they were not faking their death with absolute CERTAINTY. `
+`you could not even guarantee that they were not faking their death with absolute {f:5:certainty}. `
 `Most probably, features of this situation must be individually confirmed by telling Battler to repeat them in RED." `
 `"And I'll need to use the blue truth liberally in order to make him. `
 `...I understand. `
@@ -301,20 +301,20 @@
 `I won't fail like that again... `
 `If I did, `
 `...I wouldn't be able to face the master I am so indebted to... `
-`"We have checked all of the scenes and finished gathering INFORMATION. `
-`Here is our REPORT." `
+`"We have checked all of the scenes and finished gathering {f:5:information}. `
+`Here is our {f:5:report}." `
 `"Go ahead." `
 `"First, all of the rooms were closed rooms formed by the window locks and chain locks and the like, `
-`so that 'interference from the outside would be DIFFICULT'. `
-`The only exception is the parlor, where Rosa and Maria lay DEAD." `
+`so that 'interference from the outside would be {f:5:difficult}'. `
+`The only exception is the parlor, where Rosa and Maria lay {f:5:dead}." `
 `"Please, allow me to speak. `
 `Let it be known that the door was barred with a hat stand." `
 `"It is thought to be substantially the same as a chain lock, in that it can only be set from the inside." `
-`"It is probably their goal to construct closed rooms where explanations using master keys are made completely INEFFECTIVE. `
-`The parlor has no chain lock due to its very nature, so it is natural that something else would be used in the chain's PLACE." `
+`"It is probably their goal to construct closed rooms where explanations using master keys are made completely {f:5:ineffective}. `
+`The parlor has no chain lock due to its very nature, so it is natural that something else would be used in the chain's {f:5:place}." `
 `"...In that case, the interesting question becomes why one of the other rooms with chain locks wasn't chosen to be a closed room. `
 `There were several guest rooms other than the one Battler lay dead in, all with similar layouts, correct?" `
-`"Yes, that is CORRECT." `
+`"Yes, that is {f:5:correct}." `
 `"In that case, even though it should've been more beautiful to throw them in there, so that everyone would be inside a chain lock closed room, `
 `they did not. `
 `...That hat stand door bar in the parlor seems very suspicious. `
