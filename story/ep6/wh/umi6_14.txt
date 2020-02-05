@@ -594,10 +594,10 @@
 `...after all, Battler-san has been playing this game ignorant of the fact that his corpse was sealed in the guest room. `
 `...Because of that, ...I thought... `
 `that it might possibly change things regarding the appearance of this letter." `
-`"......The cousin room and the next room over are currently SEALED. `
-`Sorry for the late report, but the guest room with your corpse in it is also SEALED. `
+`"......The cousin room and the next room over are currently {f:5:sealed}. `
+`Sorry for the late report, but the guest room with your corpse in it is also {f:5:sealed}. `
 `And, there are 17 people on the island excluding Lady Erika. `
-`The existence of an 18th person has already been denied in a previous GAME." `
+`The existence of an 18th person has already been denied in a previous {f:5:game}." `
 `"In that case, ...if we're thinking about some person who could've placed this letter...and the disappearance of your corpse... `
 `...I thought, maybe...heheheheheheheheheh... `
 `I thought this might change things around a bit..." `
@@ -754,7 +754,7 @@
 `In which case, this letter shouldn't have appeared here." `
 `"Correct. `
 `So, I thought you should have the chance to revise this small inconsistency." `
-`"...We just now discovered this letter HERE. `
+`"...We just now discovered this letter {f:5:here}. `
 `...We are saying that we do not mind if you want to undo that, or if you want to use a revised SCENARIO." `
 `"Just by the existence of the letter and packing tape, `
 `...this sort of move is possible for Furudo Erika. `
