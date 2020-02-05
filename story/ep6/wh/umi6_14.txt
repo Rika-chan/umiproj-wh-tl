@@ -755,7 +755,7 @@
 `"Correct. `
 `So, I thought you should have the chance to revise this small inconsistency." `
 `"...We just now discovered this letter {f:5:here}. `
-`...We are saying that we do not mind if you want to undo that, or if you want to use a revised SCENARIO." `
+`...We are saying that we do not mind if you want to undo that, or if you want to use a revised {f:5:scenario}." `
 `"Just by the existence of the letter and packing tape, `
 `...this sort of move is possible for Furudo Erika. `
 `......What do you think, everyone...?" `
