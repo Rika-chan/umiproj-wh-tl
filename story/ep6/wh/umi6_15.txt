@@ -1259,14 +1259,14 @@
 `"...However, there are conditions. `
 `...As I believe you know, these were all things you forced on yourself." `
 `"...First, `
-`{p:1:this room is a closed room created from the inside. `
-`The seals on the windows are intact, so there can be no escape through there. `
-`Of course, there is no way to escape by leaving through the bathroom. `
-`...I'll make it simple. `
-`There is no exit to escape from except for this door. `
-`However, the chain lock on this door is set. `
-`You can unset and reset it all you want, but you can only do so from the inside. `
-`Furthermore, you are free to go out through the door, but you cannot leave or escape while the chain lock is unset.} `
+`{p:1:this room is a closed room created from the inside.} `
+`{p:1:The seals on the windows are intact, so there can be no escape through there.} `
+`{p:1:Of course, there is no way to escape by leaving through the bathroom.} `
+`{p:1:...I'll make it simple.} `
+`{p:1:There is no exit to escape from except for this door.} `
+`{p:1:However, the chain lock on this door is set.} `
+`{p:1:You can unset and reset it all you want, but you can only do so from the inside.} `
+`{p:1:Furthermore, you are free to go out through the door, but you cannot leave or escape while the chain lock is unset.} `
 `You have to show that you can escape from this room with the chain lock still connected...!!" `
 `"...But... `
 `...he couldn't possibly..." `
