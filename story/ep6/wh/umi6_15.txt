@@ -474,7 +474,7 @@
 `A gold butterfly that had appeared from the darkness rested on Battler's finger and became a black piece. `
 `...That black piece was the king, ...which represented Battler. `
 `"......This is my response... `
-`to your '{p:2Battler is hiding in the closet}'... `
+`to your '{p:2:Battler is hiding in the closet}'... `
 `...Take this." `
 `"{p:1:Ushiromiya Battler does not exist within the guest room. `
 `...There are no exceptions, including the closet.}" `
