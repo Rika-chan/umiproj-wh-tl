@@ -1136,7 +1136,7 @@
 `...this...demon... `
 `...turned it into a real murder case...! `
 `"...You do have the right to speak ill of Lady Erika. `
-`...However, ...right now, you also have the obligation of showing a new logic that doesn't lead to any CONTRADICTIONS." `
+`...However, ...right now, you also have the obligation of showing a new logic that doesn't lead to any {f:5:contradictions}." `
 `"Ashes to ashes, dust to dust. `
 `Corpses to corpses...! `
 `Hey, Battler-san? Let's continue the game!! `
