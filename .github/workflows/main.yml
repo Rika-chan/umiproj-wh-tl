@@ -14,7 +14,15 @@ jobs:
       run: |
         mkdir out
         mkdir out/decompiled-script
-        cp -r story/wh out/decompiled-script/translation-files
+        mkdir out/decompiled-script/translation-files
+        cp -r story/ep1/wh out/decompiled-script/translation-files/ep1
+        cp -r story/ep2/wh out/decompiled-script/translation-files/ep2
+        cp -r story/ep3/wh out/decompiled-script/translation-files/ep3
+        cp -r story/ep4/wh out/decompiled-script/translation-files/ep4
+        cp -r story/ep5/wh out/decompiled-script/translation-files/ep5
+        cp -r story/ep6/wh out/decompiled-script/translation-files/ep6
+        cp -r story/ep7/wh out/decompiled-script/translation-files/ep7
+        cp -r story/ep8/wh out/decompiled-script/translation-files/ep8
         php update-manager/update-manager.php dscript out/decompiled-script/full-script.txt . wh
         php update-manager/update-manager.php script out/decompiled-script/full-script.txt out/Witch-Hunt.file 8
         cd out
