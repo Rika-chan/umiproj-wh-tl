@@ -58,7 +58,7 @@ Current progress is indicated below. While I try my best to update this project 
 
 ## Automated build process
 
-This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This page is where testers should check for latest versions of the script as well.
+This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This includes both the full script in compiled and plain-text formats, as well as all the story/ep\*/wh files. This page is where testers should check for latest versions of the script as well.
 
 ## Manual build process
 1. Install PHP somewhere on your PATH. No extra modules are required, just the default configuration is fine.
