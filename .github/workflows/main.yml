@@ -13,10 +13,12 @@ jobs:
     - name: Build .file
       run: |
         mkdir out
-        php update-manager/update-manager.php dscript out/dscript.txt . wh
-        php update-manager/update-manager.php script out/dscript.txt out/Witch-Hunt.file 8
+        mkdir out/decompiled-script
+        cp -r story/wh out/decompiled-script/translation-files
+        php update-manager/update-manager.php dscript out/decompiled-script/full-script.txt . wh
+        php update-manager/update-manager.php script out/decompiled-script/full-script.txt out/Witch-Hunt.file 8
         cd out
-        zip umiproj-wh-tl.zip dscript.txt Witch-Hunt.file
+        zip -r umiproj-wh-tl.zip decompiled-script Witch-Hunt.file
     - name: Create release
       id: create_release
       uses: actions/create-release@v1
