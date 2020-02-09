@@ -15,14 +15,14 @@ jobs:
         mkdir out
         mkdir out/Witch-Hunt-plain-text-script
         mkdir out/Witch-Hunt-plain-text-script/translation-files
-        cp -r story/ep1/wh out/Witch-Hunt-plain-text-script/translation-files/ep1
-        cp -r story/ep2/wh out/Witch-Hunt-plain-text-script/translation-files/ep2
-        cp -r story/ep3/wh out/Witch-Hunt-plain-text-script/translation-files/ep3
-        cp -r story/ep4/wh out/Witch-Hunt-plain-text-script/translation-files/ep4
-        cp -r story/ep5/wh out/Witch-Hunt-plain-text-script/translation-files/ep5
-        cp -r story/ep6/wh out/Witch-Hunt-plain-text-script/translation-files/ep6
-        cp -r story/ep7/wh out/Witch-Hunt-plain-text-script/translation-files/ep7
-        cp -r story/ep8/wh out/Witch-Hunt-plain-text-script/translation-files/ep8
+        cp -r story/ep1/wh out/Witch-Hunt-plain-text-script/ep1
+        cp -r story/ep2/wh out/Witch-Hunt-plain-text-script/ep2
+        cp -r story/ep3/wh out/Witch-Hunt-plain-text-script/ep3
+        cp -r story/ep4/wh out/Witch-Hunt-plain-text-script/ep4
+        cp -r story/ep5/wh out/Witch-Hunt-plain-text-script/ep5
+        cp -r story/ep6/wh out/Witch-Hunt-plain-text-script/ep6
+        cp -r story/ep7/wh out/Witch-Hunt-plain-text-script/ep7
+        cp -r story/ep8/wh out/Witch-Hunt-plain-text-script/ep8
         php update-manager/update-manager.php dscript out/Witch-Hunt-plain-text-script/full-script.txt . wh
         php update-manager/update-manager.php script out/Witch-Hunt-plain-text-script/full-script.txt out/Witch-Hunt.file 8
         cd out
