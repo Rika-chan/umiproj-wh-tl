@@ -14,7 +14,6 @@ jobs:
       run: |
         mkdir out
         mkdir out/Witch-Hunt-plain-text-script
-        mkdir out/Witch-Hunt-plain-text-script/translation-files
         cp -r story/ep1/wh out/Witch-Hunt-plain-text-script/ep1
         cp -r story/ep2/wh out/Witch-Hunt-plain-text-script/ep2
         cp -r story/ep3/wh out/Witch-Hunt-plain-text-script/ep3
