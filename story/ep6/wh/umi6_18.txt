@@ -202,12 +202,12 @@
 `...slowly faded away... `
 `Then, `
 `...at the entrance to that red-carpeted path to the grave... `
-`...a calm, majestic figure was... `
+`...a calm, `
+`majestic figure was... `
 `"Guards, shoot to {f:5:kill}...!!" `
 `"Negative, conducting identity comparison." `
 `Dlanor ordered the guards to shoot the intruder right away, but Chiester 00 didn't respond. `
-`Was it because she had been warned about shooting the guests... `
-`and was afraid of the consequences of possibly shooting a drunk guest pulling some sort of prank? `
+`Was it because she had been warned about shooting the guests... and was afraid of the consequences of possibly shooting a drunk guest pulling some sort of prank? `
 `No. 00 was just cooly and calmly carrying out her duties. `
 `"...Oh, what a surprise... And I thought you weren't going to make it." `
 `"............" `
