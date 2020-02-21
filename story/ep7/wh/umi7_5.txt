@@ -186,83 +186,84 @@
 `"Sure, if you want to calculate straight-up profit and loss. `
 `......But men aren't like that." `
 `The Italians were gathered in a cramped room, arguing fiercely. `
-`«I don't like it! `
+`"I don't like it! `
 `We must remain true to our soldier spirit until the end, for the sake of our fallen comrades!' `
-`«And how do you define 'remaining true'? `
+`"And how do you define 'remaining true'? `
 `By hiding the gold on this island? `
 `By accepting the proposal of those Asians?!' `
-`«We can't trust them! `
+`"We can't trust them! `
 `Especially that Yamamoto person! `
 `We mustn't let our guards down!' `
-`«Unloading the gold and letting the Japanese see it was a huge mistake! `
+`"Unloading the gold and letting the Japanese see it was a huge mistake! `
 `We should've let it sink with the sub!' `
-`«Oh, wonderful idea, let's just sink it right inside a Japanese base! `
+`"Oh, wonderful idea, let's just sink it right inside a Japanese base! `
 `It would've been pulled up eventually. `
 `That wouldn't hide anything!' `
-`«It doesn't matter. There's no way to get the gold off this island without anyone knowing.' `
-`«If we had just taken the honorable path and scuttled the sub, none of this would've happened...!!' `
-`«If we had known then that the sub would be broken beyond repair...' `
-`«Why did the lieutenant commander contact the Japanese military and ask for help? `
+`"It doesn't matter. There's no way to get the gold off this island without anyone knowing.' `
+`"If we had just taken the honorable path and scuttled the sub, none of this would've happened...!!' `
+`"If we had known then that the sub would be broken beyond repair...' `
+`"Why did the lieutenant commander contact the Japanese military and ask for help? `
 `How was he planning to carry out our mission if they found out about the gold?' `
-`«Our mission was a failure from the moment he asked them for help!' `
-`«All of us have families waiting for us back home. `
+`"Our mission was a failure from the moment he asked them for help!' `
+`"All of us have families waiting for us back home. `
 `And we've more than done our part, I'd say, voyaging all the way to this island country in the Far East. `
 `You might call this fair and just payment for our services.' `
-`«*chatter*chatter*! `
+`"*chatter*chatter*! `
 `*chatter*chatter*chatter*!!' `
-`«Lieutenant Angelo, `
+`"Lieutenant Angelo, `
 `...if the Japanese prove to be less than amicable, we need to be prepared to take extreme measures.' `
-`«...And what do you mean by extreme measures, Corporal?' `
+`"...And what do you mean by extreme measures, Corporal?' `
 `Someone gulped. `
 `A stiff tension hung over the room... `
-`«The Japanese here are pushovers. `
+`"The Japanese here are pushovers. `
 `They're all cowards with no battle experience.' `
-`«And we're the elite. `
+`"And we're the elite. `
 `We know the layout of almost the entire base, along with the number of Japanese troops and how they're arranged. `
 `If Lieutenant Angelo gives the order, we should be able to subdue them quickly.' `
-`«Only a few of them, Yamamoto included, look like fighters. `
+`"Only a few of them, Yamamoto included, look like fighters. `
 `The rest are just laborers attached to the military. `
 `It may look like they have the advantage of numbers, but we have the greater military force.' `
-`«If we kill the Japanese, what exactly are we gonna say when the boat comes to pick us up? `
+`"If we kill the Japanese, what exactly are we gonna say when the boat comes to pick us up? `
 `You really think that'll work?!' `
-`«There should be plenty of ways to work it, as long as the corpses aren't found.' `
-`«Lieutenant Angelo, `
+`"There should be plenty of ways to work it, as long as the corpses aren't found.' `
+`"Lieutenant Angelo, `
 `...it'll be easy to subdue this base. `
 `If we kill Yamamoto and the few strong fighters, the laborers will probably surrender easily.' `
-`«Let's have them carry the gold and bury it. `
+`"Let's have them carry the gold and bury it. `
 `...Of course, we'll have to silence them afterwards.' `
-`«Are you suggesting we massacre all of them...?' `
-`«Let's do it. `
+`"Are you suggesting we massacre all of them...?' `
+`"Let's do it. `
 `If we kill them all, no one will know about the gold.' `
-`At that moment, the supposedly locked door opened slightly, `
-`and a metal object was thrown in. `
-`"Granata!!!" `
+`At that moment, the supposedly locked door opened slightly, and a metal object was thrown in. `
+`{a:c:`
+`"{ruby:Grenade:Granata}!!!" `
 `As the yell rang out, the table was kicked over to be used as a shield, and they all dropped to the floor. `
 `However, in this cramped room, it probably wouldn't do them any good. `
 `The Italians were all prepared for death. `
-`«......?' `
-`«A dud! It's a dud!!' `
+`"......?' `
+`"A dud! It's a dud!!' `
 `Fortunately, the shoddy grenade was a dud. `
 `The door was slammed open, and three Japanese soldiers wielding pistols jumped in. `
 `"Dammit, it's a dud!! `
 `Kill the Italians, kill the Italians!!" `
-`«Return fire!! Fire at will!!' `
+`"Return fire!! Fire at will!!' `
 `In this small room, no matter who shot where, it was bound to hit someone. `
 `The exchange of bullets instantly caused a rain of blood, with casualties on both sides. `
 `The three who had jumped in were covered with bullet holes and fell over, moaning and thrashing... `
-`«Gggghgggghghgh... `
+`"Gggghgggghghgh... `
 `gghh... `
 `.........! `
 `*cough*... `
 `*cough*...' `
-`«Gino!! Gino!! `
+`"Gino!! Gino!! `
 `Damn, they got his lung, we can't save him!!' `
-`«We should consider ourselves lucky! `
+`"We should consider ourselves lucky! `
 `If that grenade had gone off, we'd all be dead!' `
 `The grenade was still rolling about on the floor... `
 `It had been a surprise attack. `
 `...Lieutenant Yamamoto had probably judged that the negotiations wouldn't go his way and had decided to make the first move. `
-`Or, maybe he'd been planning from the beginning to put them in a position where they'd be gathered in one place to discuss his offer. `
+`Or, maybe he'd been planning from the beginning to put them in a position `
+`where they'd be gathered in one place to discuss his offer. `
 `Rokkenjima was their island. `
 `If they killed all the Italians, then not half, but all of the gold would go to the Japanese. `
 `There was a chance the grenade might go off late. `
@@ -270,8 +271,8 @@
 `They heard gunfire from down the hallway. `
 `It was coming from the direction of the submarine dock. `
 `Clearly, the troops guarding the pile of gold were being attacked. `
-`«Lieutenant Angelo!! What are your orders?!!' `
-`«We have no choice!! `
+`"Lieutenant Angelo!! What are your orders?!!' `
+`"We have no choice!! `
 `Kill the Japanese!!' `
 `"L-Lieutenant! `
 `These guys are good. `
@@ -317,8 +318,7 @@
 `Why not spread your hands and yell out loud? `
 `'Come for me, magnificent death!!' `
 `Someone came running towards me. `
-`It was a colleague of mine, a Japanese man. `
-`Tajima-kun. `
+`It was a colleague of mine, a Japanese man. Tajima-kun. `
 `"R-R-R-R-Ru...!!" `
 `He dashed towards me, pale-faced and out of breath. `
 `His face seemed horribly contorted with terror. `
@@ -405,25 +405,25 @@
 `To truly die. `
 `So, I was able to overcome my fear. `
 `"...Biiiiceeeeeeee!!" `
-`«Rubens! `
+`"Rubens! `
 `What on earth is going on?! `
 `What is all this?!' `
-`«There's no need for you to know. `
+`"There's no need for you to know. `
 `Just stay hidden there. `
 `Don't come out until one of your fellow countrymen calls for you!' `
 `"I heard an Italian voice!! `
 `He's over there!!" `
-`«Damn yellow monkeys!!' `
+`"Damn yellow monkeys!!' `
 `Rubens stood with Beatrice behind his back and neatly shot the two men rushing at him with 2 9mm bullets from his Beretta M1934. `
 `However, one of the 8mm bullets from their Type 94 semi-auto pistols went straight into Rubens' chest. `
 `All three of the shooters were struck in the chest and fell down in a heap. `
-`«N-No!! `
+`"N-No!! `
 `Rubens!!' `
-`«...Go up to the surface... `
+`"...Go up to the surface... `
 `You have to hide in the forest...... `
 `*cough*cough*!! `
 `Ggh...' `
-`«Rubens!!!' `
+`"Rubens!!!' `
 `"...Heheheh. My, my. `
 `Aren't we chatty?" `
 `The next person to appear...was the commanding officer of the Japanese soldiers, Yamamoto. `
@@ -433,7 +433,7 @@
 `Damn annoying, that's what they are!" `
 `Yamamoto spat. `
 `Beatrice used that moment to snatch up Rubens' gun. `
-`«Kyaa...!!!' `
+`"Kyaa...!!!' `
 `"Well look at you, reaching to pick up a gun without missing a beat! `
 `Italian women sure are scary! `
 `Dammit, both of you screwed up...!!" `
@@ -474,7 +474,7 @@
 `...So, he snuck about like a panther, breathing quietly and searching for remaining enemies... `
 `There was no sign or trace of any living person. `
 `...Maybe all of the people in this base had died. `
-`«...Damn Japanese...' `
+`"...Damn Japanese...' `
 `The Japanese struck first, but at that time, we were also talking about killing them. `
 `They simply made the first move as military men. `
 `So, perhaps we should be grateful for this day. `
@@ -492,13 +492,13 @@
 `They probably don't know I'm here. `
 `Once the shuffling footsteps had come close enough, Angelo leaned around the corner and raised his gun. `
 `The voice that reached him...spoke Italian. `
-`«R-Run...' `
-`«...?! `
+`"R-Run...' `
+`"...?! `
 `Y-You...!!' `
 `"Heheheh, I've been looking for you, Lieutenant Angelo... `
 `That makes all of you. `
 `I've been counting Italian corpses, you see...!!" `
-`«L-Lieutenant Angelo!! `
+`"L-Lieutenant Angelo!! `
 `Are you okay?!' `
 `Blood poured from Angelo's chest, `
 `...his gun fell to the floor, `
@@ -511,7 +511,7 @@
 `"Really, though, our Rokkenjima garrison was pathetic! `
 `Am I the only one who's not dead?! `
 `Trash, all of them!" `
-`«Can't you fight without using a woman as a shield, you brute?!! `
+`"Can't you fight without using a woman as a shield, you brute?!! `
 `Let go!' `
 `"Quiet! `
 `Noisy, these Italian girls. `
@@ -524,7 +524,7 @@
 `Even that would be worth a huge amount of money. `
 `Beatrice suddenly swung her head, `
 `smashing Yamamoto's nose hard. `
-`«Someone, help! Someoooooone!!! `
+`"Someone, help! Someoooooone!!! `
 `...Kya!!' `
 `"...Y-You...bitch... `
 `Ngaaah..." `

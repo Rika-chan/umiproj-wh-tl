@@ -247,8 +247,7 @@
 `...If we liken Maria's sense of identity to a universe, `
 `...then this endless stream of words coming from her might be like the Big Bang. `
 `She spent so long tormented over how to interpret her lack of a father. `
-`...Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, `
-`and she finally formed an understanding for herself. `
+`...Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself. `
 `The sad girl, who had hated herself for being different from all of her classmates, finally found a meaning for her existence. `
 `At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra-hot, ultra-high pressured energy. `
 `...Then, later on, she went to Rokkenjima, met the Endless Witch who called herself Beatrice, `
@@ -277,7 +276,8 @@
 `It was really, really sudden." `
 `"......Huh?" `
 `"So, you are...Ushiromiya Maria, I presume?" `
-`It was so very sudden. `
+`It was so very `
+`sudden. `
 `I was just drinking some milk tea, all alone in the rose garden arbor. `
 `Mama said she had to talk about something important with Uncle Krauss, `
 `...so she told me to go outside and play. `
