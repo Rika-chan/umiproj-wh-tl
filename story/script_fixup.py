@@ -6,12 +6,17 @@ import os
 ep = sys.argv[1]
 search_re = re.compile(r"@|~|!\w|#")
 fixes = {}
-for tled_file in glob.glob(f"{ep}/wh/*.txt"):
+if os.path.isfile(ep):
+    file_expr = ep
+else:
+    file_expr = f"{ep}/wh/*.txt"
+for tled_file in glob.glob(file_expr):
     try:
         fixes[os.path.basename(tled_file)] = {}
         tled_lines = open(tled_file, encoding="utf-8").readlines()
+        parent_dir = os.path.dirname(os.path.dirname(tled_file))
         original_lines = open(
-            f"{ep}/en/{os.path.basename(tled_file)}", encoding="utf-8"
+            f"{parent_dir}/en/{os.path.basename(tled_file)}", encoding="utf-8"
         ).readlines()
         if len(original_lines) != len(tled_lines):
             print(f"Line counts don't match for {tled_file}, giving up.")
@@ -51,7 +56,7 @@ else:
             pass
     os.remove("script_fixup.txt")
     print("Adjusting spaces...")
-    for tled_file in glob.glob(f"{ep}/wh/*.txt"):
+    for tled_file in glob.glob(file_expr):
         lines = open(tled_file, encoding="utf-8").readlines()
         lines = [re.sub(r"\s*`$", " `", re.sub(r"^`\s+", "`", x)) for x in lines]
         open(tled_file, "w", encoding="utf-8").writelines(lines)
