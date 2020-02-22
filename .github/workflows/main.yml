@@ -50,5 +50,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: out/developer-script.zip
-        asset_name: developer-script.file
+        asset_name: developer-script.zip
         asset_content_type: application/octet-stream
