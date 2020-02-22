@@ -3,14 +3,9 @@ import sys
 import glob
 import os
 
-ep = sys.argv[1]
 search_re = re.compile(r"@|~|!\w|#")
 fixes = {}
-if os.path.isfile(ep):
-    file_expr = ep
-else:
-    file_expr = f"{ep}/wh/*.txt"
-for tled_file in glob.glob(file_expr):
+for tled_file in sys.argv[1:]:
     try:
         fixes[os.path.basename(tled_file)] = {}
         tled_lines = open(tled_file, encoding="utf-8").readlines()
@@ -56,7 +51,7 @@ else:
             pass
     os.remove("script_fixup.txt")
     print("Adjusting spaces...")
-    for tled_file in glob.glob(file_expr):
+    for tled_file in sys.argv[1:]:
         lines = open(tled_file, encoding="utf-8").readlines()
         lines = [re.sub(r"\s*`$", " `", re.sub(r"^`\s+", "`", x)) for x in lines]
         open(tled_file, "w", encoding="utf-8").writelines(lines)
