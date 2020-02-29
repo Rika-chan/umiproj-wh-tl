@@ -77,9 +77,9 @@
 `"That's the right attitude. `
 `Let's give it our all together." `
 `"Yeah!" `
-`"My name is Asne (明日音). `
+`"My name is Asne ({p:0:明日音}). `
 `Pleased to meet you." `
-`"My name is Belne (靘音). `
+`"My name is Belne ({p:0:靘音}). `
 `Pleased to meet you." `
 `...... `
 `The newly arrived servants looked...a bit superficial. `
@@ -581,8 +581,7 @@
 `and turned a key into a butterfly before hiding it in a locker. `
 `But I'd understood it with my body. `
 `If I'd moved my fingers a different way, the ring could've flown into the air instead of just dancing, `
-`and I could've turned it into a scurrying lizard instead of a butterfly. `
-`...I could've done anything. `
+`and I could've turned it into a scurrying lizard instead of a butterfly. ...I could've done anything. `
 `True, Beatrice's magical power was still weak. `
 `It had all happened in the little world behind the backs of the servants, who were filled with anti-magic toxin. `
 `However, inside that tiny, short-lived world, I could do anything at all. `
@@ -816,7 +815,8 @@
 `As a parting gift, ...I will erase 'me' from your world. `
 `Starting now, this will not be a two-person room. `
 `It will be a single-person room, with just you in it. `
-`I hope you continue to strive for your ideal and try to become a kind, reliable servant loved by everyone. `
+`I hope you continue to strive for your ideal and try to become a kind, `
+`reliable servant loved by everyone. `
 `Yasu, the stupid, clumsy servant who lost things all the time, ...doesn't exist anymore. `
 `So long, Shannon. `
 `When I mature as the witch Beatrice and stride through the nighttime mansion where I will, `
