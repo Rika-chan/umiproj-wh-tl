@@ -44,6 +44,7 @@
 	add $Free1,"{p:23:{a:c:Developers}{n}}"
 	add $Free1,"{p:20:{a:c:O[A]}{n}}"
 	add $Free1,"{p:20:{a:c:dreamenddischarger}{n}}"
+	add $Free1,"{p:20:{a:c:Reyvarie}{n}}"
 	add $Free1,"{p:20:{a:c:drojf}{n}}"
 	add $Free1,"{p:23:{a:c:Testers}{n}}"
 	add $Free1,"{p:20:{a:c:LHCollider}{n}}"
