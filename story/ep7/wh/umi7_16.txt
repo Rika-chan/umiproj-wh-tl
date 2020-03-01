@@ -862,32 +862,32 @@
 `Afterwards, the number of stations continued to grow, and it became a major artery into Taipei. `
 `This railroad was used after the war as well and is still in common use as the Danshui Line of the Taipei Rapid Transit System. `
 `Its route begins at Taipei Station and continues on until the town of Danshui... `
-`坰北 Station. `
-`長安 Station (formerly 大正街 Station). `
-`坌連 Station. `
-`大坌公坸 Station. `
-`円山 Station. `
-`剣潭 Station (formerly 宮ノ下 Station). `
-`士林 Station. `
-`石碑 (formerly...... `
+`{ruby:Taipei:{p:0:台北}} Station. `
+`{ruby:Chang'an:{p:0:長安}} Station (formerly {ruby:Taishougai:{p:0:大正街}} Station). `
+`{ruby:Shuanglian:{p:0:双連}} Station. `
+`{ruby:Tatung Company:{p:0:大坌公坸}} Station. `
+`{ruby:Yuanshan:{p:0:円山}} Station. `
+`{ruby:Jiantan:{p:0:剣潭}} Station (formerly {ruby:Miyanoshita:{p:0:宮ノ下}} Station). `
+`{ruby:Shilin:{p:0:士林}} Station. `
+`{ruby:Shipai:{p:0:石碑}} (formerly...... `
 `"......What did the epitaph say you'd see if you went down the river?" `
 `"A-A village." `
-`"There's only one station on the Danshui Line with 里, the character for village, in its name. And it's this 石碑 Station." `
+`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this 石碑 Station." `
 `"H-How do you read this...?" `
 `"The Japanese pronounce it 'Kirigan'. `
-`Its name was changed to 石碑 (Sekihai) Station after the war, but when Kinzo lived there, it was Kirigan Station." `
-`"As you travel down the river, you will see a village...a '里'... `
+`Its name was changed to {p:0:石碑} (Sekihai) Station after the war, but when Kinzo lived there, it was Kirigan Station." `
+`"As you travel down the river, you will see a village...a '{p:0:里}'... `
 `In that village, look for the shore the two will tell you of..." `
 `"...*giggle* `
-`里 isn't the only one. You can also see a 岸, the character for shore..." `
+`{p:0:里} isn't the only one. You can also see a {p:0:岸}, the character for shore..." `
 `"In the end, it took me quite a long time to work out that this station was the one referred to. `
 `...It has the character for village and the character for shore. `
 `It felt like a kids' riddle, playing with letters..." `
-`"The first character in Kirigan has a 坣, the character for mouth. `
-`And 其, the other half of that first character, means the word 'that', right...?! `
+`"The first character in Kirigan has a {p:0:口}, the character for mouth. `
+`And {p:0:其}, the other half of that first character, means the word 'that', right...?! `
 `'That village's shore', and the mouth is 'telling of' it...! `
 `...Ah, ...but I don't get what 'the two' means..." `
-`The three characters of Kirigan can be split into a mouth (坣), a 'that' (其), a village (里), and a shore (岸). `
+`The three characters of Kirigan can be split into a mouth ({p:0:口}), a 'that' ({p:0:其}), a village ({p:0:里}), and a shore ({p:0:岸}). `
 `Those are all words that appear in the epitaph. `
 `'In *that* *village*, look for the *shore* the two will *tell* you of.' `
 `You can read it as a code for the name of the station. `
