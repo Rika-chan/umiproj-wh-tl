@@ -50,15 +50,14 @@ Current progress is indicated below. While I try my best to update this project 
 
 1. Cut a chunk of text out of `rest-X.txt` that corresponds to a chapter (one of the story/epX/wh/umiX_X.txt files that haven't been finished yet).
 2. Paste that chunk into the corresponding file, replacing everything.
-3. Commit and push those changes. This will let other developers know you've taken a chunk and are working on it.
 4. Open the file you've just changed in an editor with good diff support (personally, I use VS Code).
 5. Remove any suspicious translations and adjust lines to fit. The line numbers between the original translation and the new one *must* match, or else the wrong lines will be "translated". You may need to split/join some of the lines in the WH translation, but try to avoid taking any liberties while doing so such as adding extra words in the joined sentence.
-6. Once you are finished with the episode, check your script for anything that matches the regex `@|~|!\w|#`. These are ponscripter control characters, and you may accidently end up leaving some of them in. Fix up the matches that aren't actual dialogue. Running `script_fixup.py epX/wh/*` may help you here.
+6. Once you are finished with the chapter, check your script for anything that matches the regex `@|~|!\w|#`. These are ponscripter control characters, and you may accidently end up leaving some of them in. Fix up the matches that aren't actual dialogue. Running `script_fixup.py epX/wh/umiX_X.txt` may help you here.
 7. Once you are finished with the episode, run the "spacing fix". Essentially, make sure that every line has *no* spaces at the beginning of it, and a single space at the end (inside the backticks, not outside of them). `script_fixup.py` will handle this for you as well, if you choose to use it.
 
 ## Automated build process
 
-This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This includes both the full script in compiled and plain-text formats, as well as all the story/ep\*/wh files. This page is where testers should check for latest versions of the script as well.
+This repository is set up to produce a release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This includes both the full script in compiled and plain-text formats, as well as all the story/ep\*/wh files. This page is where testers should check for latest versions of the script as well.
 
 ## Manual build process
 1. Install PHP somewhere on your PATH. No extra modules are required, just the default configuration is fine.
