@@ -260,12 +260,12 @@
 `Come on, give us a break!" `
 `All of the kids in the Fukuin House are supposed to treat each other as family. `
 `Because of this, everyone hides their original names and uses their new 'blessed names'. `
-`Maybe because the 音 character is in the word 'Fukuin', `
+`Maybe because the {p:0:音} character is in the word 'Fukuin', `
 `that character is almost always combined with at least one character from the child's original name to make their new name. `
 `...Still, just giving a person a new name doesn't mean they'll accept it so easily. `
 `Boys and girls, who have lived in isolation and through various trials,
 `sometimes feel as though their real first and last names are a bond that's worth holding onto. `
-`So, most of the Fukuin children hate their '音' names, calling each other by nicknames based on their original names. `
+`So, most of the Fukuin children hate their '{p:0:音}' names, calling each other by nicknames based on their original names. `
 `Of course, that's only done privately. `
 `When in the presence of the House Director or other important people, only the 'blessed names' are used. `
 `On the job, the 'blessed names' are used. `
@@ -278,7 +278,7 @@
 `"Hey, Garashi-saaan. `
 `Why's Yasu the only one who isn't in a three-person room?" `
 `By 'Yasu', they probably mean me. `
-`I can't remember my parents at all, since they were gone as far back as my memory goes, ...but I was given the last name 'Yasuda' (安田). `
+`I can't remember my parents at all, since they were gone as far back as my memory goes, ...but I was given the last name 'Yasuda' ({p:0:安田}). `
 `And, apparently, my nickname comes from that. `
 `"How should I know? Genji-sama's the one who decides the rooms. `
 `I don't like it either." `

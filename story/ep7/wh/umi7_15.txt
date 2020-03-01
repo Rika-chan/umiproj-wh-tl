@@ -538,7 +538,7 @@
 `This way, Shannon won't be tormented by the bud of love anymore. `
 `And, furthermore, she will be given a little brother, ...with whom she can create a new universe. `
 `The design for the little brother will be a younger boy at the Fukuin House, with whom Shannon was close. `
-`For a name, ...let there be the 音 character, as the Fukuin House rules state. `
+`For a name, ...let there be the {p:0:音} character, as the Fukuin House rules state. `
 `......Yeah, I've decided. `
 `...That's a perfect name to go with Shannon's. `
 `He'll be...a quiet, reticent boy. `
