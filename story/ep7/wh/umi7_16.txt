@@ -872,7 +872,7 @@
 `{ruby:Shipai:{p:0:石碑}} (formerly...... `
 `"......What did the epitaph say you'd see if you went down the river?" `
 `"A-A village." `
-`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this 石碑 Station." `
+`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this {p:0:石碑} Station." `
 `"H-How do you read this...?" `
 `"The Japanese pronounce it 'Kirigan'. `
 `Its name was changed to {p:0:石碑} (Sekihai) Station after the war, but when Kinzo lived there, it was Kirigan Station." `
