@@ -759,8 +759,7 @@
 `*cackle*cackle* Nice one, Genji." `
 `I tossed the book aside, used magic to turn a bookshelf into a sofa, and plopped down on top of it. `
 `For a while, I grumbled about getting tricked and looked up at the ceiling. `
-`I was annoyed, so I felt like gathering all this room's dust, packing it into a ball, and tossing it into Genji's teacup, `
-`so I glanced down at the floor. `
+`I was annoyed, so I felt like gathering all this room's dust, packing it into a ball, and tossing it into Genji's teacup, so I glanced down at the floor. `
 `The book I had thrown away lay open on the ground. `
 `A gold butterfly was resting on that open page. `
 `...Tossing a book at random and reading an oracle from the page it happens to open to is a kind of ritual. `
@@ -807,7 +806,8 @@
 `...I've been looking for books here so long that the dust is piling up on me. `
 `If I give up now, it will all have been a waste of time. `
 `......Very well. `
-`Why don't I test my luck, and see if the random page the book opened to contains an oracle. `
+`Why don't I test my luck, `
+`and see if the random page the book opened to contains an oracle. `
 `I turned to the next page, trying to search in even greater detail... `
 `"To me, solving this riddle was like a game. `
 `One that all of the servants were engrossed in." `
@@ -865,14 +865,14 @@
 `{ruby:Taipei:{p:0:台北}} Station. `
 `{ruby:Chang'an:{p:0:長安}} Station (formerly {ruby:Taishougai:{p:0:大正街}} Station). `
 `{ruby:Shuanglian:{p:0:双連}} Station. `
-`{ruby:Tatung Company:{p:0:大坌公坸}} Station. `
+`{ruby:Tatung Company:{p:0:大坌公司}} Station. `
 `{ruby:Yuanshan:{p:0:円山}} Station. `
 `{ruby:Jiantan:{p:0:剣潭}} Station (formerly {ruby:Miyanoshita:{p:0:宮ノ下}} Station). `
 `{ruby:Shilin:{p:0:士林}} Station. `
 `{ruby:Shipai:{p:0:石碑}} (formerly...... `
 `"......What did the epitaph say you'd see if you went down the river?" `
 `"A-A village." `
-`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this {p:0:石碑} Station." `
+`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this 石碑 Station." `
 `"H-How do you read this...?" `
 `"The Japanese pronounce it 'Kirigan'. `
 `Its name was changed to {p:0:石碑} (Sekihai) Station after the war, but when Kinzo lived there, it was Kirigan Station." `
