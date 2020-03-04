@@ -340,7 +340,7 @@
 `I see, it seems this is the best possible name for you. `
 `Very well, you shall now be known as Ronove...!" `
 `"Oh, how pleasant it is to be called by one's name. `
-`I thank you for this wonderful name, Lady MARIA." `
+`I thank you for this wonderful name, Lady {f:5:Maria}." `
 `"Just as a form can be a vessel, a name can be a powerful vessel too. `
 `For unknown creatures of the other world, simply gaining a name can greatly increase their magical power...!! `
 `That's why names are important. `
@@ -431,7 +431,7 @@
 `Uu-!" `
 `"Lion Land, is it? `
 `It sounds like fun." `
-`"...By interacting together, all of MARIA's friends can reinforce their own existence. `
+`"...By interacting together, all of {f:5:Maria}'s friends can reinforce their own existence. `
 `It's a magnificent world." `
 `"I guess that means we should work on deepening our relationships as well. `
 `By strengthening our bonds, our existence and magical power will grow stronger and stronger..." `
