@@ -872,14 +872,14 @@
 `{ruby:Shipai:{p:0:石碑}} (formerly...... `
 `"......What did the epitaph say you'd see if you went down the river?" `
 `"A-A village." `
-`"There's only one station on the Danshui Line with {p:0:里}, the character for village, in its name. And it's this 石碑 Station." `
+`"There's only one station on the Danshui Line with {ruby:sato:{p:0:里}}, the character for village, in its name. And it's this {p:0:石碑} Station." `
 `"H-How do you read this...?" `
 `"The Japanese pronounce it 'Kirigan'. `
-`Its name was changed to {p:0:石碑} (Sekihai) Station after the war, but when Kinzo lived there, it was Kirigan Station." `
+`Its name was changed to {ruby:Sekihai:{p:0:石碑}} Station after the war, but when Kinzo lived there, it was Kirigan Station." `
 `"As you travel down the river, you will see a village...a '{p:0:里}'... `
 `In that village, look for the shore the two will tell you of..." `
 `"...*giggle* `
-`{p:0:里} isn't the only one. You can also see a {p:0:岸}, the character for shore..." `
+`{ruby:sato:{p:0:里}} isn't the only one. You can also see a {ruby:kishi:{p:0:岸}}, the character for shore..." `
 `"In the end, it took me quite a long time to work out that this station was the one referred to. `
 `...It has the character for village and the character for shore. `
 `It felt like a kids' riddle, playing with letters..." `
@@ -954,10 +954,10 @@
 `"Right, that theory about a ten-day journey ending at the tenth twilight. `
 `'On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.' She took that section to be a literal trip that ends when you 'attain to', or reach, the treasures of the Golden Land." `
 `"What meaning was there in those words? `
-`Realizing that there was something to be found...and then realizing what that something actually was... `
-`took another long stretch of time." `
+`Realizing that there was something to be found...and then realizing what that something actually was... took another long stretch of time." `
 `"By Rosa's reasoning, `
-`'attain to' meant reaching some physical location represented by the four treasures. `
+`'attain to' meant reaching some physical location `
+`represented by the four treasures. `
 `...It was a good try, but not quite right. `
 `It's not the treasures we're supposed to reach, but their power." `
 `"...What does it even mean to 'reach' the power of something like that...? `
