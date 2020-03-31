@@ -635,7 +635,7 @@
 `However, now, ...holes had been dug everywhere, and nearly everything outside the mansion was completely gone. `
 `Some goats were clutching to the few remaining footholds and pillars, still eating away at them. `
 `"...Let it be known that exposing the truth is murder." `
-`"Why can't humans live without killing, I {f:t:wonder}? `
+`"Why can't humans live without killing, I {f:5:wonder}? `
 `...Throughout their long history, so many have prayed for miracles, `
 `...but in the end, they eat up their own chances at receiving them, eating up the very ground they stand on and falling into the {f:5:abyss}..." `
 `They saw a goat chewing the same pillar that was holding it up, `
