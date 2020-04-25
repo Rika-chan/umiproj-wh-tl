@@ -1,0 +1,54 @@
+name: Build release
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout files
+      uses: actions/checkout@v1
+    - name: Build .file
+      run: |
+        mkdir out
+        mkdir out/Witch-Hunt-plain-text-script
+        cp -r story/ep1/wh out/Witch-Hunt-plain-text-script/ep1
+        cp -r story/ep2/wh out/Witch-Hunt-plain-text-script/ep2
+        cp -r story/ep3/wh out/Witch-Hunt-plain-text-script/ep3
+        cp -r story/ep4/wh out/Witch-Hunt-plain-text-script/ep4
+        cp -r story/ep5/wh out/Witch-Hunt-plain-text-script/ep5
+        cp -r story/ep6/wh out/Witch-Hunt-plain-text-script/ep6
+        cp -r story/ep7/wh out/Witch-Hunt-plain-text-script/ep7
+        cp -r story/ep8/wh out/Witch-Hunt-plain-text-script/ep8
+        php update-manager/update-manager.php dscript out/Witch-Hunt-plain-text-script/full-script.txt . wh
+        php update-manager/update-manager.php script out/Witch-Hunt-plain-text-script/full-script.txt out/Witch-Hunt.file 8
+        cd out
+        zip -r developer-script.zip Witch-Hunt-plain-text-script
+    - name: Create release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: release_${{ github.sha }}
+        release_name: ${{ github.sha }}
+    - name: Upload .file
+      uses: actions/upload-release-asset@v1.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: out/Witch-Hunt.file
+        asset_name: Witch-Hunt.file
+        asset_content_type: application/octet-stream
+    - name: Upload dscript
+      uses: actions/upload-release-asset@v1.0.1
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: out/developer-script.zip
+        asset_name: developer-script.zip
+        asset_content_type: application/octet-stream
